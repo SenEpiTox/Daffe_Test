@@ -1,3 +1,3 @@
 print("Hello World")
 
-print("I came, I saw, I conquered")
+print("I came, I saw, I pole pole")
